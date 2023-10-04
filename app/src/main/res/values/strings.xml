@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Sprint8koh10</string>
+    <string name="operation_details_title">Operation details</string>
+    <string name="withdrawal_account_title">Withdrawal account</string>
+    <string name="withdrawal_account_value">Salary card</string>
+    <string name="withdrawal_account_number">· 3040</string>
 </resources>

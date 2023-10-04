@@ -15,11 +15,5 @@ class MainActivity : AppCompatActivity() {
             onBackPressed()
         }
 
-        findViewById<ImageView>(R.id.arrow1).setOnClickListener {
-
-        }
-        findViewById<ImageView>(R.id.arrow2).setOnClickListener {
-
-        }
     }
 }
